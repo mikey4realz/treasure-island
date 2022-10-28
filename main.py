@@ -28,7 +28,7 @@ print("Your mission is to find the treasure.")
 #Write your code below this line 👇
 choice = input('You come to a split in the road. Do you choose "left" or "right"? ')
 if choice == 'left':
-  choice = input('You has come across a river. Do you want to "swim" or "wait"? ')
+  choice = input('You have come across a river. Do you want to "swim" or "wait"? ')
   if choice == 'wait':
     choice = input('There are three doors in front of you, a Red, Blue, and Yellow door. Do you choose "red", "blue", or "yellow"? ')
     if choice == 'red':
